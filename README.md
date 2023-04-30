@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitroshankhede&label=Profile%20views&color=0e75b6&style=flat" alt="lalitroshankhede" /> </p>
-<img src="https://camo.githubusercontent.com/bd2496f381841ac8dbd7cc3b9b89df151c4f53076d6dee73a3cee1e0d26ac390/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="programming_img" align="right" width="500px" />
+<img src="https://camo.githubusercontent.com/bd2496f381841ac8dbd7cc3b9b89df151c4f53076d6dee73a3cee1e0d26ac390/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="programming_img" align="right" width="400px" />
 
 <p align="left"> <a href="https://twitter.com/lalitroshan99" target="blank"><img src="https://img.shields.io/twitter/follow/lalitroshan99?logo=twitter&style=for-the-badge" alt="lalitroshan99" /></a> </p>
 
