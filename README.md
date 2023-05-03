@@ -1,4 +1,4 @@
-![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/profile.png)
+![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/banner%20profile.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitroshankhede&label=Profile%20views&color=0e75b6&style=flat" alt="lalitroshankhede" /> </p>
