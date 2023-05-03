@@ -1,5 +1,7 @@
 ![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/banner%20profile.png)
 
+<h1 align="center">Hi 👋, I'm Lalit Roshankhede</h1>
+<h3 align="center">"Driven Java Developer with a Passion for Learning and Developing Innovative Solutions."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitroshankhede&label=Profile%20views&color=0e75b6&style=flat" alt="lalitroshankhede" /> </p>
 <img src="https://camo.githubusercontent.com/bd2496f381841ac8dbd7cc3b9b89df151c4f53076d6dee73a3cee1e0d26ac390/68747470733a2f2f6d656469612e74656e6f722e636f6d2f557474433441495459523441414141642f66756c6c2d737461636b2d646576656c6f7065722e676966" alt="programming_img" align="right" width="400px" />
