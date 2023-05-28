@@ -1,4 +1,4 @@
-![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/banner%20profile.png);
+![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/banner%20profile.png)
 
 <h1 align="center">Hi 👋, I'm Lalit Roshankhede</h1>
 <h3 align="center">"Driven Java Developer with a Passion for Learning and Developing Innovative Solutions."</h3>
