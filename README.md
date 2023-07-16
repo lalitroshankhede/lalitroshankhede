@@ -30,7 +30,7 @@
 <a href="https://instagram.com/https://www.instagram.com/lalit_roshankhede/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lalit_roshankhede/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/lalit-roshankhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/lalit-roshankhede" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/lalitroshank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/lalitroshank" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lalit_r20?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/lalitroshan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lalit_roshan20?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/lalitroshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
