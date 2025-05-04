@@ -1,4 +1,4 @@
-![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/banner%20profile.png)
+![logo](https://github.com/lalitroshankhede/lalitroshankhede/blob/main/da.jpeg)
 
 <h1 align="center">Hi 👋, I'm Lalit Roshankhede</h1>
 <h3 align="center">"Data & Software Associate | Turning Data into Actionable Insights | 5⭐ HackerRank | Seeking New Opportunities."</h3>
